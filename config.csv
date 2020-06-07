@@ -1,9 +1,0 @@
-﻿path,value,scope,scope_code
-web/default/cms_home_page,home,websites,base
-web/unsecure/base_url,http://b2b.luma.demo/,websites,luma_b2b
-web/default/cms_home_page,luma-b2b-home,websites,luma_b2b
-web/unsecure/base_url,http://venia.demo/,websites,venia_b2c
-web/default/cms_home_page,venia-b2c-home,websites,venia_b2c
-design/header/logo_width,148,websites,venia_b2c
-design/header/logo_height,43,websites,venia_b2c
-design/theme/theme_id,4,websites,venia_b2c
