@@ -1,7 +1,13 @@
 ﻿path,value,scope,scope_code
+design/theme/theme_id,2,,
+design/header/welcome,"""""",,
 web/default/cms_home_page,home,websites,base
 web/unsecure/base_url,http://b2b.luma.demo/,websites,luma_b2b
 web/default/cms_home_page,luma-b2b-home,websites,luma_b2b
+btob/website_configuration/company_active,1,websites,luma_b2b
+btob/website_configuration/negotiablequote_active,1,websites,luma_b2b
+btob/website_configuration/quickorder_active,1,websites,luma_b2b
+btob/website_configuration/requisition_list_active,1,websites,luma_b2b
 web/unsecure/base_url,http://venia.demo/,websites,venia_b2c
 web/default/cms_home_page,venia-b2c-home,websites,venia_b2c
 design/header/logo_width,148,websites,venia_b2c
