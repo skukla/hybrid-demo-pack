@@ -41,3 +41,9 @@ sales/magento_rma/enabled,1,,
 sales/magento_rma/enabled_on_product,1,,
 sales/magento_rma/use_store_address,1,,
 wishlist/general/multiple_enabled,1,,
+services_connector/services_connector_integration/production_api_key,"","",""
+services_connector/services_id/project_name,"","",""
+services_connector/services_id/environment_name,"","",""
+services_connector/services_id/environment,"","",""
+services_connector/services_id/project_id,"","",""
+services_connector/services_id/environment_id,"","",""
